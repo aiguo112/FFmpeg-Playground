@@ -6,6 +6,7 @@ What's Inside:
 ⬇️ Install the ffmpeg-python library if you haven't already:
 ```python
 pip install ffmpeg-python
+```
 
 🔗 Basic Video Conversion: Discover how to transmute video formats like a digital alchemist. Convert between formats, codecs, and containers seamlessly.
 
