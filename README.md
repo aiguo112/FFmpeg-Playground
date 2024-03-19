@@ -32,7 +32,7 @@ This repository contains a Python script `Lens_Correction.py`  that utilizes FFm
 
 ## Usage
 
-1. Ensure you have FFmpeg installed on your system. You can download FFmpeg from [ffmpeg.org](https://ffmpeg.org/download.html) or use package managers like `brew` (macOS) or `apt-get` (Linux).
+1. Ensure you have FFmpeg installed on your system. You can download FFmpeg from [ffmpeg.org]([https://ffmpeg.org/download.html](https://www.gyan.dev/ffmpeg/builds/)) or use package managers like `brew` (macOS) or `apt-get` (Linux).
 
 2. Clone or download this repository to your local machine.
 
